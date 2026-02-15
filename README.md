@@ -1,17 +1,25 @@
-# Olá, eu sou o Kayky! 👋
+# Kayky Martins 👋
 
-### 🎓 Estudante de Matemática da Tecnologia e Inovação (2025 - 2029)
-
-- 💻 Atualmente focado em: **Python, C e Estruturas de Dados**.
-- 🛠️ Projetos recentes: Automação com **Arduino & GPS** e modelagem 3D.
-- 🎯 Objetivo: Unir o rigor matemático com o desenvolvimento de software de alto nível.
+### 🎓 Graduando em Matemática da Tecnologia e Inovação — IMPA Tech (2025 - 2029)
 
 ---
 
-### 🚀 Minhas Tecnologias
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+## 🖋️ Produção Acadêmica & Projetos
+- **[Propriedades dos Limites de Funções](https://github.com/Kayky-Martins/Latex-documents):** Formalização de limites e propriedades em **LaTeX** (Em andamento).
+- **Relógio Astronômico (Arduino):** Desenvolvimento de hardware para cálculo de tempo sidereal e fases lunares (Em desenvolvimento).
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do Kayky](https://github-readme-stats.vercel.app/api?username=Kayky-Martins&show_icons=true&theme=radical)
+## 🏆 Conquistas em olímpiadas científicas
+- **Olimpíada Canguru de Matemática:** Medalha de Prata – Nível S (2024).
+- **Olimpíada Brasileira de Astronomia (OBA):** Medalha de Prata – Nível 4 (2023).
+
+---
+
+## 🛠️ Tecnologias
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## 📊 Atividade no GitHub
+![Estatísticas do Kayky](https://github-readme-stats.vercel.app/api?username=Kayky-Martins&show_icons=true&theme=radical&hide_border=true)
