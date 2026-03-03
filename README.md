@@ -6,7 +6,6 @@
 
 ## 🖋️ Produção Acadêmica & Projetos
 - **[Propriedades dos Limites de Funções](https://github.com/Kayky-Martins/Latex-documents):** Formalização de limites e propriedades em **LaTeX** (Em andamento).
-- **Relógio Astronômico (Arduino):** Desenvolvimento de hardware para cálculo de tempo sidereal e fases lunares (Em desenvolvimento).
 
 ## 🏆 Conquistas em olímpiadas científicas
 - **Olimpíada Canguru de Matemática:** Medalha de Prata – Nível S (2024).
@@ -18,8 +17,3 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-
-## 📊 Atividade no GitHub
-![Estatísticas do Kayky](https://github-readme-stats.vercel.app/api?username=Kayky-Martins&show_icons=true&theme=radical&hide_border=true)
